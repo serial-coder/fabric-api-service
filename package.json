@@ -28,7 +28,7 @@
     "multer": "^1.4.1",
     "serve-favicon": "^2.5.0",
     "serve-index": "^1.9.1",
-    "shelljs": "^0.8.2",
+    "shelljs": "^0.8.5",
     "socket.io": "^2.1.1",
     "unzip": "^0.1.11",
     "url-parse-lax": "^3.0.0",
